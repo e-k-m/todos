@@ -1,13 +1,5 @@
 """
-CLI of todos.
-
-Usage
------
-todos I love batman
-
-or
-
-python -m todos.cli my I love batman
+FIXME
 """
 
 import sys
